@@ -6,4 +6,6 @@ Ez a Discord bot kizárólag a működéséhez szükséges alapvető adatokat t�
 - Az adatokat nem osztjuk meg harmadik féllel.
 - A felhasználók kérhetik adataik törlését a fejlesztővel való kapcsolatfelvétel útján.
 
-Ha bármilyen kérdésed van, lépj kapcsolatba a fejlesztővel Discordon vagy e-mailben.
+Ha bármilyen kérdésed van, lépj kapcsolatba a fejlesztővel Discordon.
+
+Kapcsolat(Discordon): eger5leon / Sadify69
