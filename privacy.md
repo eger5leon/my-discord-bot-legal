@@ -9,3 +9,9 @@ Ez a Discord bot kizárólag a működéséhez szükséges alapvető adatokat t�
 Ha bármilyen kérdésed van, lépj kapcsolatba a fejlesztővel Discordon.
 
 Kapcsolat(Discordon): eger5leon / Sadify69
+
+A feltételek módosulhatnak. Az aktuális verzió mindig itt lesz elérhető.
+
+---
+
+**Legutóbb módosítva: 2025.05.09.**
