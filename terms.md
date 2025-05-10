@@ -15,3 +15,5 @@ A feltételek módosulhatnak. Az aktuális verzió mindig itt lesz elérhető.
 ---
 
 **Legutóbb módosítva: 2025.05.10.**
+
+<sub><sup>© Frend bot – Minden jog fenntartva 2025</sup></sub>
