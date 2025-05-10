@@ -10,7 +10,7 @@ Ha bármilyen kérdésed van, lépj kapcsolatba a fejlesztővel Discordon.
 
 Kapcsolat(Discordon): eger5leon / Sadify69
 
-A feltételek módosulhatnak. Az aktuális verzió mindig itt lesz elérhető.
+Az adatvédelmi szabályzat módosulhat. Az aktuális verzió mindig itt lesz elérhető.
 
 ---
 
