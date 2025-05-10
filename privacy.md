@@ -14,4 +14,4 @@ Az adatvédelmi szabályzat módosulhat. Az aktuális verzió mindig itt lesz el
 
 ---
 
-**Legutóbb módosítva: 2025.05.09.**
+**Legutóbb módosítva: 2025.05.10.**
