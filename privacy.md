@@ -8,7 +8,7 @@ Ez a Discord bot kizárólag a működéséhez szükséges alapvető adatokat t�
 
 Ha bármilyen kérdésed van, lépj kapcsolatba a fejlesztővel Discordon.
 
-Kapcsolat(Discordon): eger5leon / Sadify69
+Kapcsolat(Discordon): eger5leon / sadify69
 
 Az adatvédelmi szabályzat módosulhat. Az aktuális verzió mindig itt lesz elérhető.
 
