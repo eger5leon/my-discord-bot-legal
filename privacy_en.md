@@ -14,4 +14,4 @@ This privacy policy may be updated. The latest version will always be available 
 
 ---
 
-**Last updated: 2025.05.26.**
+**Last updated: 2025.05.26**
